@@ -1,4 +1,4 @@
-[<img src='https://github.com/Mallipudijaya/Mallipudijaya/blob/main/JayashreeMallipudi.png' height='350' width='1000'>](https://mallipudijaya.github.io/)
+[<img src='https://github.com/Mallipudijaya/Mallipudijaya/blob/main/JayashreeMallipudi.png'>](https://mallipudijaya.github.io/)
 
 ### Hi there 👋, my name is Jayashree
 
