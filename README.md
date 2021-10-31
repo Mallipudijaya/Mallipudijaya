@@ -1,7 +1,9 @@
+[<img src='https://github.com/Mallipudijaya/Mallipudijaya/blob/main/JayashreeMallipudi.png' height='300'>](https://mallipudijaya.github.io/)
+
 ### Hi there 👋, my name is Jayashree
-![Design and Development](https://github.com/Mallipudijaya/Mallipudijaya/blob/main/JayashreeMallipudi.png)
-I'm a self-taught passionate Front End developer from India. I really enjoy learning languages and frameworks like React.
- I design and develop experiences that make people's life easier..
+
+I'm a self-taught passionate Front End developer from India. I really enjoy learning languages and frameworks like React.<br/>
+I design and develop experiences that make people's life easier..<br/>
 I believe that data tells us more than just numbers, it helps us understand our users and their desires with the help of data science.
 
 Skills:  REACT / JS / HTML / CSS/PYTHON
