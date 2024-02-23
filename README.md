@@ -2,16 +2,16 @@
 
 ### Hi there 👋, my name is Jayashree
 
-I'm a self-taught passionate Front End developer from India. I really enjoy learning languages and frameworks like React.<br/>
+I'm a self-taught passionate developer from India. I really enjoy learning languages and frameworks that solve problems.<br/>
 I design and develop experiences that make people's life easier..<br/>
 I believe that data tells us more than just numbers, it helps us understand our users and their desires with the help of data science.
 
 ##Skills and Experience
 * ⚛ React
 * 📱 React Native
-* 💻HTML,CSS,JS
-- 🔭 I’m currently working on  Web Applications 
-- 🌱 I’m currently learning Datascience 
+* 💻HTML,CSS,JS,Python,C++
+- 🔭 I’m currently working on  Applications and Automated tools
+- 🌱 I’m currently learning LLMs 
 - 📫 How to reach me: https://mallipudijaya.github.io/ 
 
 
